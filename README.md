@@ -1,5 +1,8 @@
 # Meshtastic Firmware for Seeed XIAO ESP32-C3 + Wio SX1262
 
+![image1](https://github.com/benb0jangles/seeed-xiao-esp32c3-meshtastic/blob/main/img/1.jpg)
+
+
 Custom Meshtastic firmware for the **Seeed XIAO ESP32-C3** with **Wio SX1262 LoRa module** in stacked configuration.
 
 ![Version](https://img.shields.io/badge/meshtastic-v2.7.19-blue)
